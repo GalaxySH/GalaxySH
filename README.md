@@ -1,6 +1,9 @@
 ### 👋 Hello, I'm Stefan
 
-![Stefan's github stats](https://github-readme-stats.vercel.app/api?username=GalaxySH&show_icons=true&include_all_commits=true&theme=radical)
+🔭 I’m currently working on [GreenMesa](https://github.com/enigmadigm/greenmesa), a Discord bot.
+
+
+[![Stefan's github stats](https://github-readme-stats.vercel.app/api?username=GalaxySH&show_icons=true&include_all_commits=false&theme=radical&hide_title=false&count_private=true)](https://github.com/GalaxySH)
 
 <!--
 **GalaxySH/GalaxySH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
