@@ -1,6 +1,6 @@
-### 👋 Hello, I'm Stefan
+### 👋 Hello, I'm Stefan/Rooskie/GalaxySH/PolyversialMind
 
-🔭 I’m currently working on [GreenMesa](https://github.com/enigmadigm/greenmesa), a Discord bot.
+🔭 I’m currently working on [GreenMesa](https://github.com/enigmadigm/greenmesa) and [counting human](https://github.com/GalaxySH/cr-counting-bot), Discord bots.
 
 
 [![Stefan's github stats](https://github-readme-stats.vercel.app/api?username=GalaxySH&show_icons=true&include_all_commits=false&theme=radical&hide_title=false&count_private=true&hide=stars&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/GalaxySH)
