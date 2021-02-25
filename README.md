@@ -7,7 +7,7 @@
 [![GreenMesa Repo Card](https://github-readme-stats.vercel.app/api/pin?username=EnigmaDigm&repo=GreenMesa&theme=algolia)](https://github.com/enigmadigm/GreenMesa)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GalaxySH&langs_count=10&theme=algolia)](https://github.com/GalaxySH)
-<br>The langs included are only under my account, they do not those used in [my organization](https://github.com/EnigmaDigm)
+<br>The langs included are only under my account, they do not include those used in [my organization](https://github.com/EnigmaDigm)
 
 <!--
 **GalaxySH/GalaxySH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
