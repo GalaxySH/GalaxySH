@@ -4,7 +4,9 @@
 
 <h3 align="left">My Arsenal:</h3>
 <p align="left">
-  <img src="https://cdn.discordapp.com/emojis/794969728988217355.png" alt="C--" width="40" height="40"/>
+  <a href="https://stratum.hauge.rocks">
+    <img src="https://cdn.discordapp.com/emojis/794969728988217355.png" alt="C--" width="40" height="40"/>
+  </a>
 </p>
 <!-- https://pastebin.com/ukuNPRJW -->
 
