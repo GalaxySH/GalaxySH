@@ -2,13 +2,14 @@
 
 🔭 I’m currently working on [GreenMesa](https://github.com/enigmadigm/greenmesa) and [counting human](https://github.com/GalaxySH/cr-counting-bot), Discord bots.
 
-[![Stefan's github stats](https://github-readme-stats.vercel.app/api?username=GalaxySH&show_icons=true&include_all_commits=false&theme=algolia&hide_title=false&count_private=true&hide=stars)](https://github.com/GalaxySH)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GalaxySH&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
 <h3 align="left">My Arsenal:</h3>
 <p align="left">
   <img src="https://cdn.discordapp.com/emojis/794969728988217355.png" alt="C--" width="40" height="40"/>
 </p>
+<!-- https://pastebin.com/ukuNPRJW -->
+
+[![Stefan's github stats](https://github-readme-stats.vercel.app/api?username=GalaxySH&show_icons=true&include_all_commits=false&theme=algolia&hide_title=false&count_private=true&hide=stars)](https://github.com/GalaxySH)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GalaxySH&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <details>
   <summary>GitHub/Galaxysh Languages</summary>
