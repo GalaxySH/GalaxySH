@@ -1,4 +1,4 @@
-### 👋 Hello, I'm Stefan/Rooskie/GalaxySH/PolyversialMind <img src="https://komarev.com/ghpvc/?username=galaxysh&label=proof%20of%20insignificance&color=blueviolet&style=flat-square" alt="galaxysh" />
+### 👋 Cheers, I'm Rooskie/GalaxySH/PolyversialMind <img src="https://komarev.com/ghpvc/?username=galaxysh&label=proof%20of%20insignificance&color=blueviolet&style=flat-square" alt="galaxysh" />
 
 🔭 I’m currently working on [GreenMesa](https://github.com/enigmadigm/greenmesa) and [counting human](https://github.com/GalaxySH/cr-counting-bot), Discord bots.
 
