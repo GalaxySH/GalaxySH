@@ -10,6 +10,8 @@
 </p>
 <!-- https://pastebin.com/ukuNPRJW -->
 
+<img align="left" alt="Metrics" src="https://github.com/galaxysh/galaxysh/blob/master/github-metrics.svg">
+
 [![Stefan's github stats](https://github-readme-stats.vercel.app/api?username=GalaxySH&show_icons=true&include_all_commits=false&theme=algolia&hide_title=false&count_private=true&hide=stars)](https://github.com/GalaxySH)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GalaxySH&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
