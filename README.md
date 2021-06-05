@@ -11,7 +11,7 @@
 <!-- https://pastebin.com/ukuNPRJW -->
 
 <img align="left" alt="" src="https://github.com/galaxysh/galaxysh/blob/master/main.metrics.svg">
-<img align="right" src="https://count.getloli.com/get/@:GalaxySH?theme=rule34" alt="count" />
+<img align="right" src="https://count.getloli.com/get/@:GalaxySH?theme=rule34" alt="count" height="80" />
 <img align="right" alt="" src="https://github.com/galaxysh/galaxysh/blob/master/personal.metrics.svg">
 
 <!--[![Stefan's github stats](https://github-readme-stats.vercel.app/api?username=GalaxySH&show_icons=true&include_all_commits=false&theme=algolia&hide_title=false&count_private=true&hide=stars)](https://github.com/GalaxySH)
