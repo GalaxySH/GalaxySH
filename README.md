@@ -1,16 +1,18 @@
-### 👋 Rooskie/GalaxySH/PolyversialMind/EnigmaDigm/... <img src="https://komarev.com/ghpvc/?username=galaxysh&label=proof%20of%20insignificance&color=blueviolet&style=flat-square" alt="galaxysh" />
+### 👋 Rooskie/GalaxySH/PolyversialMind/EnigmaDigm/...
 
-🔨 Working on [GreenMesa](https://github.com/enigmadigm/greenmesa) and [counting human](https://github.com/GalaxySH/cr-counting-bot), Discord bots.
+🔨 Working on [GreenMesa](https://github.com/enigmadigm/greenmesa) and [counting human](https://github.com/GalaxySH/cr-counting-bot)
 
 <!--<h3 align="left">My Arsenal:</h3>-->
 <p align="left">
   <a href="https://stratum.hauge.rocks">
-    <img src="https://cdn.discordapp.com/emojis/794969728988217355.png" alt="C--" width="40" height="40"/>
+    <img src="https://cdn.discordapp.com/emojis/794969728988217355.png" alt="C--" width="30" height="30"/>
   </a>
 </p>
 <!-- https://pastebin.com/ukuNPRJW -->
 
-<img align="left" alt="Metrics" src="https://github.com/galaxysh/galaxysh/blob/master/github-metrics.svg">
+<img align="left" alt="" src="https://github.com/galaxysh/galaxysh/blob/master/main.metrics.svg">
+<img align="right" src="https://count.getloli.com/get/@:GalaxySH?theme=rule34" alt="count" />
+<img align="right" alt="" src="https://github.com/galaxysh/galaxysh/blob/master/personal.metrics.svg">
 
 <!--[![Stefan's github stats](https://github-readme-stats.vercel.app/api?username=GalaxySH&show_icons=true&include_all_commits=false&theme=algolia&hide_title=false&count_private=true&hide=stars)](https://github.com/GalaxySH)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GalaxySH&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
