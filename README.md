@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on [GreenMesa](https://github.com/enigmadigm/greenmesa) and [counting human](https://github.com/GalaxySH/cr-counting-bot), Discord bots.
 
-<h3 align="left">My Arsenal:</h3>
+<!--<h3 align="left">My Arsenal:</h3>-->
 <p align="left">
   <a href="https://stratum.hauge.rocks">
     <img src="https://cdn.discordapp.com/emojis/794969728988217355.png" alt="C--" width="40" height="40"/>
