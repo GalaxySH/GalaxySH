@@ -35,6 +35,7 @@ jobs:
           commits_authoring: stefan@hauge.rocks, polyversialmind@gmail.com, galaxysh6589@gmail.com
           config_order: base.header, isocalendar, languages, notable, habits, topics, lines
           config_timezone: America/Chicago
+          repositories_affiliations: EnigmaDigm, GalaxySH
       - name: Personal
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -55,5 +56,5 @@ jobs:
           plugin_music_limit: 4          # Limit to 4 entries
           plugin_music_played_at: yes    # Show timestamp (for spotify only)
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_CLIENT_REFRESH_TOKEN }}"
-          config_order: achievements, music
+          config_order: achievements, music, base.metadata
           config_timezone: America/Chicago
