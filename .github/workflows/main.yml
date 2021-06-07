@@ -31,8 +31,9 @@ jobs:
           plugin_notable_repositories: yes
           plugin_habits: yes
           plugin_habits_facts: yes
+          plugin_lines: yes
           commits_authoring: stefan@hauge.rocks, polyversialmind@gmail.com, galaxysh6589@gmail.com
-          config_order: base.header, isocalendar, languages, notable, habits, topics
+          config_order: base.header, isocalendar, languages, notable, habits, topics, lines
           config_timezone: America/Chicago
       - name: Personal
         if: ${{ success() || failure() }}
@@ -43,7 +44,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: "GalaxySH"
-          plugin_lines: yes
           plugin_achievements: yes
           plugin_achievements_threshold: B       # Display achievements with rank B or higher
           plugin_achievements_secrets: yes       # Display unlocked secrets achievements
@@ -55,5 +55,5 @@ jobs:
           plugin_music_limit: 4          # Limit to 4 entries
           plugin_music_played_at: yes    # Show timestamp (for spotify only)
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_CLIENT_REFRESH_TOKEN }}"
-          config_order: lines, achievements, music
+          config_order: achievements, music
           config_timezone: America/Chicago
