@@ -42,7 +42,7 @@ jobs:
         with:
           filename: personal.metrics.svg
           # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: NOT_NEEDED
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_achievements: yes
           plugin_achievements_threshold: B       # Display achievements with rank B or higher
