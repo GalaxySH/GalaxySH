@@ -43,7 +43,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: "GalaxySH"
-          base: metadata
           plugin_lines: yes
           plugin_achievements: yes
           plugin_achievements_threshold: B       # Display achievements with rank B or higher
@@ -56,5 +55,5 @@ jobs:
           plugin_music_limit: 4          # Limit to 4 entries
           plugin_music_played_at: yes    # Show timestamp (for spotify only)
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_CLIENT_REFRESH_TOKEN }}"
-          config_order: base.metadata, lines, achievements, music
+          config_order: lines, achievements, music
           config_timezone: America/Chicago
