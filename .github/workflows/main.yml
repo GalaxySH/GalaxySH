@@ -35,7 +35,7 @@ jobs:
           commits_authoring: stefan@hauge.rocks, polyversialmind@gmail.com, galaxysh6589@gmail.com
           config_order: base.header, isocalendar, languages, notable, habits, topics, lines
           config_timezone: America/Chicago
-          repositories_affiliations: EnigmaDigm, GalaxySH
+          repositories_affiliations: ""
       - name: Personal
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
