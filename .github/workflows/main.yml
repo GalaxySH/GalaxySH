@@ -36,7 +36,7 @@ jobs:
           commits_authoring: GalaxySH, stefan@hauge.rocks, PolyversialMind@gmail.com, GalaxySH6589@gmail.com, GreenMesa
           config_order: base.header, isocalendar, languages, notable, habits, topics, lines
           config_timezone: America/Chicago
-          repositories_affiliations: ""
+          repositories_affiliations: collaborator
       - name: Personal
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
