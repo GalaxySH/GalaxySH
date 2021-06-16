@@ -11,7 +11,7 @@ jobs:
     steps:
       # See action.yml for all options
       - name: Main
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         if: ${{ success() || failure() }}
         with:
           filename: main.metrics.svg
@@ -39,7 +39,7 @@ jobs:
           repositories_affiliations: collaborator
       - name: Personal
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: personal.metrics.svg
           # Your GitHub token
