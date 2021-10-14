@@ -1782,7 +1782,7 @@
                                 <div class="infos">
                                     <div class="name">Dancing in the Moonlight</div>
                                     <div class="artist">King Harvest</div>
-                                    <div class="played-at">Played at 16:59 on 13/10/2021</div>
+                                    <div class="played-at">Played at 16:59:00 on 13 Oct 2021</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -1790,7 +1790,7 @@
                                 <div class="infos">
                                     <div class="name">The Opening - Live In Notre-Dame Binaural Headphone Mix</div>
                                     <div class="artist">Jean-Michel Jarre</div>
-                                    <div class="played-at">Played at 16:55 on 13/10/2021</div>
+                                    <div class="played-at">Played at 16:55:58 on 13 Oct 2021</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -1798,7 +1798,7 @@
                                 <div class="infos">
                                     <div class="name">Oxygene, Pt. 2 - JMJ Rework of Kosinski Remix Live In Notre-Dame Binaural Headphone Mix</div>
                                     <div class="artist">Jean-Michel Jarre</div>
-                                    <div class="played-at">Played at 16:45 on 13/10/2021</div>
+                                    <div class="played-at">Played at 16:45:03 on 13 Oct 2021</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -1806,7 +1806,7 @@
                                 <div class="infos">
                                     <div class="name">Exit - Live In Notre-Dame Binaural Headphone Mix</div>
                                     <div class="artist">Jean-Michel Jarre</div>
-                                    <div class="played-at">Played at 16:40 on 13/10/2021</div>
+                                    <div class="played-at">Played at 16:40:34 on 13 Oct 2021</div>
                                 </div>
                             </div>
                         </div>
@@ -1815,7 +1815,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13/10/2021, 21:03 (timezone America/Chicago) with lowlighter/metrics@3.15.0-beta</span>
+                <span>Last updated 13 Oct 2021, 22:18:09 (timezone America/Chicago) with lowlighter/metrics@3.15.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
