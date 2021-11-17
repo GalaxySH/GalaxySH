@@ -1832,7 +1832,7 @@
                                 <div class="infos">
                                     <div class="name">Pines Of Rome</div>
                                     <div class="artist">Ottorino Respighi</div>
-                                    <div class="played-at">Played at 06:53:56 on 16 Nov 2021</div>
+                                    <div class="played-at">Played at 06:57:03 on 16 Nov 2021</div>
                                 </div>
                             </div>
                         </div>
@@ -1841,7 +1841,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Nov 2021, 21:18:51 (timezone America/Chicago) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 16 Nov 2021, 22:23:04 (timezone America/Chicago) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
