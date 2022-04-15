@@ -445,7 +445,7 @@
                                 <div class="infos">
                                     <div class="name">Powerhouse</div>
                                     <div class="artist">Graeme Koehne</div>
-                                    <div class="played-at">Played at 22:46:28 on 14 Apr 2022</div>
+                                    <div class="played-at">Played at 11:33:55 on 15 Apr 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -462,7 +462,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Apr 2022, 11:28:15 (timezone America/Chicago) with lowlighter/metrics@3.23.0-beta</span>
+                <span>Last updated 15 Apr 2022, 12:22:28 (timezone America/Chicago) with lowlighter/metrics@3.23.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
