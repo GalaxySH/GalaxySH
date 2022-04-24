@@ -445,7 +445,7 @@
                                 <div class="infos">
                                     <div class="name">Salamander</div>
                                     <div class="artist">John McCabe</div>
-                                    <div class="played-at">Played at 06:05:17 on 24 Apr 2022</div>
+                                    <div class="played-at">Played at 14:14:16 on 24 Apr 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -478,7 +478,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Apr 2022, 13:22:05 (timezone America/Chicago) with lowlighter/metrics@3.23.0-beta</span>
+                <span>Last updated 24 Apr 2022, 14:16:04 (timezone America/Chicago) with lowlighter/metrics@3.23.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
