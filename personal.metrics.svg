@@ -445,7 +445,7 @@
                                 <div class="infos">
                                     <div class="name">Gimme! Gimme! Gimme! (A Man After Midnight)</div>
                                     <div class="artist">ABBA</div>
-                                    <div class="played-at">Played at 07:16:07 on 10 Jun 2022</div>
+                                    <div class="played-at">Played at 11:59:12 on 10 Jun 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -478,7 +478,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jun 2022, 11:29:22 (timezone America/Chicago) with lowlighter/metrics@3.25.0-beta</span>
+                <span>Last updated 10 Jun 2022, 12:21:07 (timezone America/Chicago) with lowlighter/metrics@3.25.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
