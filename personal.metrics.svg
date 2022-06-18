@@ -445,7 +445,7 @@
                                 <div class="infos">
                                     <div class="name">Them Changes</div>
                                     <div class="artist">Thundercat</div>
-                                    <div class="played-at">Played at 02:30:00 on 18 Jun 2022</div>
+                                    <div class="played-at">Played at 03:02:08 on 18 Jun 2022</div>
                                 </div>
                             </div>
                         </div>
@@ -454,7 +454,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jun 2022, 03:22:43 (timezone America/Chicago) with lowlighter/metrics@3.25.0-beta</span>
+                <span>Last updated 18 Jun 2022, 04:17:04 (timezone America/Chicago) with lowlighter/metrics@3.25.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
