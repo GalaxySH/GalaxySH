@@ -443,33 +443,33 @@
                             <div class="track">
                                 <img src="" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">An American in Paris</div>
-                                    <div class="artist">An American in Paris Orchestra</div>
-                                    <div class="played-at">Played at 21:54:15 on 24 Jun 2022</div>
+                                    <div class="name">Get Down</div>
+                                    <div class="artist">RetroVision</div>
+                                    <div class="played-at">Played at 09:42:40 on 25 Jun 2022</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Pinball Wizard</div>
-                                    <div class="artist">The Who</div>
-                                    <div class="played-at">Played at 16:13:25 on 24 Jun 2022</div>
+                                    <div class="name">Dream On</div>
+                                    <div class="artist">Aerosmith</div>
+                                    <div class="played-at">Played at 09:39:53 on 25 Jun 2022</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Penny Lane</div>
-                                    <div class="artist">Canadian Brass</div>
-                                    <div class="played-at">Played at 16:10:23 on 24 Jun 2022</div>
+                                    <div class="name">EGO</div>
+                                    <div class="artist">Siriusmo</div>
+                                    <div class="played-at">Played at 09:35:25 on 25 Jun 2022</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">THIS IS CHAI</div>
-                                    <div class="artist">CHAI</div>
-                                    <div class="played-at">Played at 16:06:47 on 24 Jun 2022</div>
+                                    <div class="name">I'm Not In Love</div>
+                                    <div class="artist">10cc</div>
+                                    <div class="played-at">Played at 09:31:47 on 25 Jun 2022</div>
                                 </div>
                             </div>
                         </div>
@@ -478,7 +478,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jun 2022, 09:16:02 (timezone America/Chicago) with lowlighter/metrics@3.25.0-beta</span>
+                <span>Last updated 25 Jun 2022, 10:18:51 (timezone America/Chicago) with lowlighter/metrics@3.25.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
