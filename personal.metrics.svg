@@ -443,33 +443,33 @@
                             <div class="track">
                                 <img src="" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Fire In My Soul - Tom Staar Remix</div>
-                                    <div class="artist">Oliver Heldens</div>
-                                    <div class="played-at">Played at 07:59:07 on 26 Jun 2022</div>
+                                    <div class="name">House Of The Rising Sun</div>
+                                    <div class="artist">The Animals</div>
+                                    <div class="played-at">Played at 09:09:29 on 26 Jun 2022</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Searching For a Lost Horizon</div>
-                                    <div class="artist">Scandroid</div>
-                                    <div class="played-at">Played at 07:56:10 on 26 Jun 2022</div>
+                                    <div class="name">Shine On You Crazy Diamond (Pts. 1-5)</div>
+                                    <div class="artist">Pink Floyd</div>
+                                    <div class="played-at">Played at 09:04:57 on 26 Jun 2022</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">East St. Louis Toodle-Oo</div>
-                                    <div class="artist">Steely Dan</div>
-                                    <div class="played-at">Played at 07:53:11 on 26 Jun 2022</div>
+                                    <div class="name">California Dreamin'</div>
+                                    <div class="artist">The Mamas &amp; The Papas</div>
+                                    <div class="played-at">Played at 08:51:25 on 26 Jun 2022</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Following the Sun</div>
-                                    <div class="artist">SUPER-Hi</div>
-                                    <div class="played-at">Played at 07:45:52 on 26 Jun 2022</div>
+                                    <div class="name">Bilquis Gets to Work</div>
+                                    <div class="artist">Brian Reitzell</div>
+                                    <div class="played-at">Played at 08:48:44 on 26 Jun 2022</div>
                                 </div>
                             </div>
                         </div>
@@ -478,7 +478,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jun 2022, 08:25:49 (timezone America/Chicago) with lowlighter/metrics@3.25.0-beta</span>
+                <span>Last updated 26 Jun 2022, 09:16:01 (timezone America/Chicago) with lowlighter/metrics@3.25.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
