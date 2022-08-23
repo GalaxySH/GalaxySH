@@ -445,7 +445,7 @@
                                 <div class="infos">
                                     <div class="name">Bahía</div>
                                     <div class="artist">Jarami</div>
-                                    <div class="played-at">Played at 01:56:21 on 23 Aug 2022</div>
+                                    <div class="played-at">Played at 07:49:03 on 23 Aug 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -478,7 +478,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Aug 2022, 07:36:39 (timezone America/Chicago) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 23 Aug 2022, 08:39:55 (timezone America/Chicago) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
