@@ -445,7 +445,7 @@
                                 <div class="infos">
                                     <div class="name">Jupiter (From The Planets)</div>
                                     <div class="artist">Gustav Holst</div>
-                                    <div class="played-at">Played at 19:49:24 on 18 Oct 2022</div>
+                                    <div class="played-at">Played at 06:20:35 on 19 Oct 2022</div>
                                 </div>
                             </div>
                         </div>
@@ -454,7 +454,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Oct 2022, 05:32:12 (timezone America/Chicago) with lowlighter/metrics@3.29.0-beta</span>
+                <span>Last updated 19 Oct 2022, 06:22:10 (timezone America/Chicago) with lowlighter/metrics@3.29.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
