@@ -445,7 +445,7 @@
                                 <div class="infos">
                                     <div class="name">Sea of Trees</div>
                                     <div class="artist">King Gizzard &amp; The Lizard Wizard</div>
-                                    <div class="played-at">Played at 22:41:08 on 21 Nov 2022</div>
+                                    <div class="played-at">Played at 06:28:39 on 22 Nov 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -478,7 +478,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Nov 2022, 05:16:37 (timezone America/Chicago) with lowlighter/metrics@3.30.0-beta</span>
+                <span>Last updated 22 Nov 2022, 06:37:36 (timezone America/Chicago) with lowlighter/metrics@3.30.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
