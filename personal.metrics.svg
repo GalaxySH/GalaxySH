@@ -445,7 +445,7 @@
                                 <div class="infos">
                                     <div class="name">Free Bird</div>
                                     <div class="artist">Lynyrd Skynyrd</div>
-                                    <div class="played-at">Played at 11:06:10 on 5 Dec 2022</div>
+                                    <div class="played-at">Played at 15:01:46 on 5 Dec 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -478,7 +478,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Dec 2022, 14:18:11 (timezone America/Chicago) with lowlighter/metrics@3.30.0-beta</span>
+                <span>Last updated 5 Dec 2022, 15:15:36 (timezone America/Chicago) with lowlighter/metrics@3.30.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
