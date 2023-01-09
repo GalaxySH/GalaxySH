@@ -477,8 +477,8 @@
                 </div>
             </section>
             <footer>
-                <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jan 2023, 02:25:14 (timezone America/Chicago) with lowlighter/metrics@3.32.0-beta</span>
+                <span>These metrics do not include all private contributions</span>
+                <span>Last updated 9 Jan 2023, 03:18:12 (timezone America/Chicago) with lowlighter/metrics@3.32.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
