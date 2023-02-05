@@ -445,7 +445,7 @@
                                 <div class="infos">
                                     <div class="name">Mr. Moustafa</div>
                                     <div class="artist">Alexandre Desplat</div>
-                                    <div class="played-at">Played at 16:13:17 on 4 Feb 2023</div>
+                                    <div class="played-at">Played at 23:15:08 on 4 Feb 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -478,7 +478,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Feb 2023, 22:19:36 (timezone America/Chicago) with lowlighter/metrics@3.33.0-beta</span>
+                <span>Last updated 4 Feb 2023, 23:15:16 (timezone America/Chicago) with lowlighter/metrics@3.33.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
