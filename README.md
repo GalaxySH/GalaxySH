@@ -1,6 +1,6 @@
-### 👋 Rooskie/GalaxySH/PolyversialMind/EnigmaDigm/...
+### 👋 rooskie/galaxysh/anocyme/...
 
-🔨 Working on [GreenMesa](https://github.com/enigmadigm/greenmesa) and [counting human](https://github.com/GalaxySH/cr-counting-bot)
+📖 In university
 
 <!--<h3 align="left">My Arsenal:</h3>-->
 <p align="left">
