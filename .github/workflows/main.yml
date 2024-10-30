@@ -34,7 +34,7 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_lines: yes
-          commits_authoring: GalaxySH, Rooskie, stefan@hauge.rocks, PolyversialMind@gmail.com, polyversialmind@gmail.com, GalaxySH6589@gmail.com, GreenMesa
+          commits_authoring: GalaxySH, Rooskie, stefan@hauge.rocks, PolyversialMind@gmail.com, polyversialmind@gmail.com, GalaxySH6589@gmail.com, GreenMesa, sfhauge@wisc.edu, Stefan Hauge, galaxysh6589@gmail.com
           config_order: base.header, isocalendar, languages, notable, habits, topics, lines
           config_timezone: America/Chicago
           repositories_affiliations: collaborator
