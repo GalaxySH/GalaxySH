@@ -1,7 +1,5 @@
 ### 👋 rooskie/galaxysh/anocyme/...
 
-📖 In university
-
 <!--<h3 align="left">My Arsenal:</h3>-->
 <p align="left">
   <a href="https://stratum.hauge.rocks">
@@ -54,7 +52,7 @@
 <!--   <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> -->
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <!--   <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> -->
-  <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
+<!--   <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> -->
 </p>
 <!-- https://pastebin.com/ukuNPRJW -->
 
