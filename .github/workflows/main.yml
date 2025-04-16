@@ -11,7 +11,7 @@ jobs:
     steps:
       # See action.yml for all options
       - name: Main
-        uses: stalomeow/metrics@projects-v2 # lowlighter/metrics@latest
+        uses: gh-metrics/metrics@latest # lowlighter/metrics@latest
         if: ${{ success() || failure() }}
         with:
           filename: main.metrics.svg
