@@ -40,7 +40,7 @@ jobs:
           repositories_affiliations: collaborator
       - name: Personal
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
+        uses: gh-metrics/metrics@master
         with:
           filename: personal.metrics.svg
           # Your GitHub token
