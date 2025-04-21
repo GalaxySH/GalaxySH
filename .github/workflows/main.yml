@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   #push: {branches: ["master", "main"]}
 jobs:
-  github-metrics:
+  github-metrics-2:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
